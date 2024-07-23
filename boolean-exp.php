@@ -6,5 +6,5 @@ $c = true;
 // Original expression
 $result = (!($a && $b) || ($c && !$b)) && ($a || !$c);
 
-// Simplify the function
+// Simplify the expression
 ?>
